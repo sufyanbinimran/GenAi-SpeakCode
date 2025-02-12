@@ -44,6 +44,7 @@ opt_einsum
 packaging
 pandas
 pillow
+PortAudio
 protobuf
 pyarrow
 pycparser
