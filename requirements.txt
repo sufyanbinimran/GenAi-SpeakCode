@@ -1,6 +1,0 @@
-streamlit
-sounddevice
-numpy
-tensorflow
-torch
-pandas
