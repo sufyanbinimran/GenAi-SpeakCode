@@ -49,7 +49,7 @@ namex==0.0.8
 narwhals==1.26.0
 networkx==3.4.2
 numba==0.61.0
-numpy==1.23.5
+numpy==1.24.4
 oauthlib==3.2.2
 openai-whisper==20240930
 opt_einsum==3.4.0
