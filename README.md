@@ -1,4 +1,3 @@
-
 # Speak to Code - Real-Time Voice to Code Generation
 
 **Speak to Code** is an innovative project that converts real-time voice input into programming code in various languages. Leveraging **Whisper AI** for speech-to-text transcription and the **Gemini API** for code generation, this project enables users to dictate code in natural language and instantly receive code in languages like Python, JavaScript, C++, and more.
@@ -48,6 +47,10 @@ To get started with **Speak to Code**, clone the repository and follow the instr
     ```
 
 5. Use the web interface or command-line tool to start speaking commands and see them converted into code.
+
+## Live Demo & Blog
+- 🎤 **Try the App**: [Streamlit Demo](https://sufyan-gen-ai-speak-code.streamlit.app/)
+- 📝 **Read the Blog**: [Revolutionizing Coding with Your Voice](https://medium.com/@sufyanbinimran/revolutionizing-coding-with-your-voice-️-99d578851341)
 
 ## Contributing
 We welcome contributions to enhance this project! Fork the repository, submit issues, or create pull requests to help improve **Speak to Code**.
